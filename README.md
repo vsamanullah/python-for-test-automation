@@ -9,3 +9,22 @@ Whether you're a beginner or an experienced tester, this guide will equip you wi
 
 ## 📖 Course Topics  
 For a detailed breakdown of the course topics, check out the [Course Overview](docs/course_overview.md).
+
+##	Chapter 1
+
+<table border="1">
+  <tr>
+    <th>Main Topic</th>
+    <th>Sub Topic</th>
+  </tr>
+  <tr>
+    <td rowspan="3"><b>Python Overview</b></td>
+    <td>Python Overview</td>
+  </tr>
+  <tr>
+    <td>Key Features of Python</td>
+  </tr>
+  <tr>
+    <td>Where is Python Used?</td>
+  </tr>
+</table>
