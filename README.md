@@ -18,13 +18,13 @@ For a detailed breakdown of the course topics, check out the [Course Overview](d
     <th>Sub Topic</th>
   </tr>
   <tr>
-    <td rowspan="3"><b>[Python Overview](docs/python_overview.md#python-overview)</b></td>
-    <td>[What is Python](docs/python_overview.md#what-is-python)</td>
+    <td rowspan="3"><b><a href="docs/python_overview.md#python-overview">Python Overview</a></b></td>
+    <td><a href="docs/python_overview.md#what-is-python">What is Python</a></td>
   </tr>
   <tr>
-    <td>[Key Features of Python](docs/python_overview.md#key-features-of-python)</td>
+    <td><a href="docs/python_overview.md#key-features-of-python">Key Features of Python</a></td>
   </tr>
   <tr>
-    <td>[Where is Python Used?](docs/python_overview.md#where-is-python-used)</td>
+    <td><a href="docs/python_overview.md#where-is-python-used">Where is Python Used?</a></td>
   </tr>
 </table>
