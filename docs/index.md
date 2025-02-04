@@ -1,4 +1,4 @@
-# Python for Test Automation: A Complete Guide
+# <span style="color:blue">Python for Test Automation: A Complete Guide</span>
 
 ![](images/python_testautomation_data.png)
 
