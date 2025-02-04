@@ -1,0 +1,23 @@
+site_name: Python for Test Automation
+theme:
+  name: material  # This gives a modern sidebar navigation
+  palette:
+    primary: blue
+    accent: light blue
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+
+nav:
+  - Home: index.md
+  - Course Topics:
+      - Course Topics: course_overview.md
+  - Overview:      
+      - What is Python: python_overview.md
+      - Key Features: key-features-of-python.md
+      - Where Python Used: where-is-python-used.md
+  - Setup:
+      - Installing Python: installing-python.md
+      - Installing PyCharm: installing-and-setting-up-the-pycharm-ide.md
+
