@@ -31,6 +31,6 @@ For a detailed breakdown of the course topics, check out the [Course Overview](d
     <td><a href="docs/python_overview.md#installing-python">Installing Python</a></td>
   </tr>
   <tr>
-    <td><a href="docs/python_overview.md#installing-and-setting-up-the-ide">Installing and Setting Up the PyCharm IDE</a></td>
+    <td><a href="docs/python_overview.md#installing-and-setting-up-the-pycharm-ide">Installing and Setting Up the PyCharm IDE</a></td>
   </tr>
 </table>
