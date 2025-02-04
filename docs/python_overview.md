@@ -135,6 +135,7 @@ For this series, we will be using PyCharm as our IDE. Follow these steps to inst
     1.  Go to File → Settings → Project → Interpreter.
     2.  Add the path to the installed Python executable.
 	
-![](images/Interpreter.jpg)	
+	<img src="images/Interpreter.jpg" alt="Interpreter Setup" width="600">
+
 	
 6. Your PyCharm setup is now complete, and you're ready to start coding!
