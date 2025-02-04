@@ -106,3 +106,32 @@ Example:
 📱 **Mobile Apps** – Kivy, BeeWare  
 🎮 **Game Development** – Pygame  
 🔗 **Networking & Cybersecurity** – Scapy
+
+# Installing Python
+## To install Python, follow these steps:
+
+1. Visit the official Python website: https://www.python.org/.
+2. Download the appropriate version based on your operating system and machine type (32-bit or 64-bit).
+3. For Windows users:
+    1. Double-click the downloaded .msi or .exe file.
+    2. Follow the installation instructions until the process is complete.
+    3. Once installed, update the system PATH environment variable:
+        1. Add the directory where Python is installed.
+        2. Also, add the Scripts folder path (usually located inside the Python installation directory).
+
+4. To verify the installation, open Command Prompt and run:
+    ```
+    python --version
+    ```
+	
+# Installing and Setting Up the IDE
+For this series, we will be using PyCharm as our IDE. Follow these steps to install and configure it:
+
+1. Download the latest Community Edition of PyCharm from the official website:
+2. https://www.jetbrains.com/pycharm/download/?section=windows
+3. Once the download is complete, double-click the .msi (Windows) or appropriate installer file.
+4. Follow the on-screen instructions to complete the installation.
+5. After installation, open PyCharm and set up the Python interpreter:
+    1.  Go to File → Settings → Project → Interpreter.
+    2.  Add the path to the installed Python executable.
+6. Your PyCharm setup is now complete, and you're ready to start coding!
