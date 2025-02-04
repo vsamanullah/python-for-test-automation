@@ -18,7 +18,7 @@ For a detailed breakdown of the course topics, check out the [Course Overview](d
     <th>Sub Topic</th>
   </tr>
   <tr>
-    <td rowspan="3"><b><a href="docs/python_overview.md#python-overview">Python Overview</a></b></td>
+    <td rowspan="5"><b><a href="docs/python_overview.md#python-overview">Python Overview</a></b></td>
     <td><a href="docs/python_overview.md#what-is-python">What is Python</a></td>
   </tr>
   <tr>
@@ -26,5 +26,11 @@ For a detailed breakdown of the course topics, check out the [Course Overview](d
   </tr>
   <tr>
     <td><a href="docs/python_overview.md#where-is-python-used">Where is Python Used?</a></td>
+  </tr>
+  <tr>
+    <td><a href="docs/python_overview.md#installing-python">Installing Python</a></td>
+  </tr>
+  <tr>
+    <td><a href="docs/python_overview.md#installing-and-setting-up-the-ide">Installing and Setting Up the PyCharm IDE</a></td>
   </tr>
 </table>

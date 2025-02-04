@@ -124,7 +124,7 @@ Example:
     python --version
     ```
 	
-# Installing and Setting Up the IDE
+# Installing and Setting Up the PyCharm IDE
 For this series, we will be using PyCharm as our IDE. Follow these steps to install and configure it:
 
 1. Download the latest Community Edition of PyCharm from the official website:
@@ -134,4 +134,7 @@ For this series, we will be using PyCharm as our IDE. Follow these steps to inst
 5. After installation, open PyCharm and set up the Python interpreter:
     1.  Go to File → Settings → Project → Interpreter.
     2.  Add the path to the installed Python executable.
+	
+	![](images/Interpreter.jpg)	
+	
 6. Your PyCharm setup is now complete, and you're ready to start coding!
