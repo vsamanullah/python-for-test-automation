@@ -21,6 +21,12 @@ jobs:
         run: |
           pip install mkdocs-material
 
-      - name: Build and Deploy
+      - name: Build the Site
         run: |
-          mkdocs gh-deploy --force
+          mkdocs build
+
+      - name: Deploy to GitHub Pages
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}  # Use the secret token
+        run: |
+          mkdocs gh-deploy --force --token $GH_TOKEN
